@@ -63,6 +63,6 @@ O programa exibirá a árvore de pastas e arquivos e, ao final, o tamanho total 
 
 ## Integrantes do grupo
 
-- Luiz Henrique
-- Jeu Justino
-- Lucas Teves
+- Jeú Justino da Silva Costa
+- Lucas Teves Dalia Morais
+- Luiz Henrique Feitosa Santos
