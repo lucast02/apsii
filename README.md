@@ -60,3 +60,9 @@ java -cp out Main
 ```
 
 O programa exibirá a árvore de pastas e arquivos e, ao final, o tamanho total do projeto.
+
+## Integrantes do grupo
+
+- Luiz Henrique
+- Jeu Justino
+- Lucas Teves
